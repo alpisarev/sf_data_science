@@ -12,7 +12,7 @@
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -29,7 +29,7 @@
 ### Краткая информация о данных
 Датасет состоит из 44744 строк и 12 признаков. 
   
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом:  
@@ -38,13 +38,13 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 Работа над этим проектом укрепила мои навыки работы с сырыми данными. Проект помог мне лучше освоить все основные этапы работы с датасетом, расширить познания в визуализации данных. В дальшейших проектах по анализу данных я буду чувствовать себя более уверенно!
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️
