@@ -1,6 +1,7 @@
 # Проект 1. Анализ вакансий на HeadHunter
 
 ## Оглавление  
+[0. Ссылка на файл с исходными данными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)   
 [1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Описание-проекта)   
 [2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)    
 [3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)   
@@ -27,7 +28,10 @@
 
 
 ### Краткая информация о данных
-Датасет состоит из 44744 строк и 12 признаков. 
+Датасет состоит из 44744 строк и 12 признаков.
+
+***Ссылка файл с исходными данными:***
+**https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view**
   
 :arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
