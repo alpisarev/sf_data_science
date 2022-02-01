@@ -1,12 +1,12 @@
 # Проект 1. Анализ вакансий на HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)
-[3. Условия задачи](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Условия-задачи)
-[4. Что практикуем](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Что-практикуем)
-[5. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)
-[6. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
+[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Описание-проекта)   
+[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)   
+[3. Условия задачи](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Условия-задачи)   
+[4. Что практикуем](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Что-практикуем)   
+[5. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)   
+[6. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)   
 [7. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Выводы) 
 
 ### Описание проекта    
