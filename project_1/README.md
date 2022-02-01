@@ -2,12 +2,10 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Описание-проекта)   
-[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)   
-[3. Условия задачи](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Условия-задачи)   
-[4. Что практикуем](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Что-практикуем)   
-[5. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)   
-[6. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)   
-[7. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)    
+[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)   
+[5. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
