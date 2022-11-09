@@ -1,17 +1,17 @@
 # Kaggle 0. Предсказание стоимости подержанного автомобиля
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Результаты)    
-[6. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Результаты)    
+[6. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Выводы) 
 
 ### Описание проекта    
 Соревнование по предсказанию стоимости подержанного автомобиля.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -43,7 +43,7 @@
 * deal_type - тип объявления: продажа или аренда
 * *final_price - стоимость машины (Целевая переменная)*
   
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Оглавление)
 
 
 ### Этапы работы над проектом:  
@@ -53,19 +53,19 @@
 4. Изучение важности признаков при построении модели.
 5. Предсказание на тестовых данных, подготовка сабмита. 
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Оглавление)
 
 
 ### Результаты:  
 1. Благодаря LightAutoML удалось получить score 1747.31421, не прилагая усилий к подготовке датасета (не пришлось очищать данные от пропусков, удалять дубликаты и так далее).
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Оглавление)
 
 
 ### Выводы:  
 Библиотека LightAutoML позволяет автоматически строить модели машинного обучения для различных задач. Этот инструмент позволяет сосредоточиться на важных задачах машинного обучения — генерации признаков, выборе метрик, определении целевой переменной и так далее.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️
