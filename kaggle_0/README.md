@@ -26,6 +26,7 @@
 
 :arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Оглавление)
 
+
 ### Краткая информация о данных
 Автомобили описываются 15 признаками:
 * row_id - ID объявления
