@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Kaggle 0. Предсказание стоимости подержанного автомобиля
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/README.md#Описание-проекта)  
