@@ -2,16 +2,16 @@
 
 ## Оглавление  
 [0. Ссылка на файл с исходными данными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)   
-[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Описание-проекта)   
-[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)    
-[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)   
-[5. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Описание-проекта)   
+[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Какой-кейс-решаем)    
+[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Этапы-работы-над-проектом)   
+[5. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Выводы) 
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -24,7 +24,7 @@
 **Что практикуем**     
 Получаем первые навыки работы с данными на примере датасета о вакансиях.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Оглавление)
 
 
 ### Краткая информация о данных
@@ -33,7 +33,7 @@
 ***Ссылка файл с исходными данными:***
 **https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view**
   
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Оглавление)
 
 
 ### Этапы работы над проектом:  
@@ -42,13 +42,13 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Оглавление)
 
 
 ### Выводы:  
 Работа над этим проектом укрепила мои навыки работы с сырыми данными. Проект помог мне лучше освоить все основные этапы работы с датасетом, расширить познания в визуализации данных. В дальшейших проектах по анализу данных я буду чувствовать себя более уверенно!
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️

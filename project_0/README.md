@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Результаты)    
-[6. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Результаты)    
+[6. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,27 +31,27 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Оглавление)
 
 
 ### Этапы работы над проектом:  
 1. Написание функции, которая угадывает загаданное число и возвращает число попыток, за которое число было угадано.
 2. Написание функции, которая генерирует список из 1000 случайных чисел, далее подставляет эти числа в подпрограмму №1 и считает среднее количество попыток угадывания за 1000 повторений.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Оглавление)
 
 
 ### Результаты:  
 1. Если в функции, угадывающей числа, после каждого прохода не изменять пределы метода randint(), то алгоритм угадывает число в среднем за 100 попыток.
 2. Если же после каждого прохода сдвигать нижний или верхний пределы метода randint() исходя из условий, то алгоритм угадывает число в среднем за 8 попыток.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Оглавление)
 
 
 ### Выводы:  
 Создавая этот проект, я научился работать в Linux, получил первые навыки в работе с VSCode и Github.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_0/#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️
