@@ -1,4 +1,4 @@
-# Kaggle 0. Предсказание стоимости подержанного автомобиля
+# Kaggle 1. Прогнозирование рейтинга отеля на Booking
 
 ## Оглавление  
 [0. Ссылка на файл с исходными данными](https://www.kaggle.com/competitions/sf-booking/overview)   
