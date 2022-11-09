@@ -1,7 +1,7 @@
 # Проект 1. Анализ вакансий на HeadHunter
 
 ## Оглавление  
-[0. Ссылка на файл с исходными данными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)   
+[0. Ссылка на исходные данные](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)   
 [1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Описание-проекта)   
 [2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Какой-кейс-решаем)    
 [3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_1/#Краткая-информация-о-данных)   

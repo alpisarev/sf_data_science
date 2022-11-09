@@ -1,7 +1,7 @@
 # Project 3. Прогнозирование рейтинга отеля на Booking
 
 ## Оглавление  
-[0. Ссылка на файл с исходными данными](https://www.kaggle.com/competitions/sf-booking/overview)   
+[0. Ссылка на исходные данные](https://www.kaggle.com/competitions/sf-booking/overview)   
 [1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Краткая-информация-о-данных)  

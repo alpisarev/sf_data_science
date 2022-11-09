@@ -1,7 +1,7 @@
 # Kaggle 0. Предсказание стоимости подержанного автомобиля
 
 ## Оглавление  
-[0. Ссылка на файл с исходными данными](https://www.kaggle.com/competitions/sf-dst-predict-car-price/overview)   
+[0. Ссылка на исходные данные](https://www.kaggle.com/competitions/sf-dst-predict-car-price/overview)   
 [1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Краткая-информация-о-данных)  
