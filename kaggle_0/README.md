@@ -10,6 +10,7 @@
 
 ### Описание проекта    
 Соревнование по предсказанию стоимости подержанного автомобиля.
+https://www.kaggle.com/competitions/sf-dst-predict-car-price/overview
 
 :arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0/#Оглавление)
 
