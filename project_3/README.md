@@ -1,18 +1,18 @@
-# Kaggle 1. Прогнозирование рейтинга отеля на Booking
+# Project 3. Прогнозирование рейтинга отеля на Booking
 
 ## Оглавление  
 [0. Ссылка на файл с исходными данными](https://www.kaggle.com/competitions/sf-booking/overview)   
-[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Результаты)    
-[6. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Выводы) 
+[1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Результаты)    
+[6. Выводы](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Выводы) 
 
 ### Описание проекта    
 Соревнование по прогнозированию рейтинга отеля на Booking.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -25,7 +25,7 @@
 1. Создаём свою первую модель, основанную на алгоритмах машинного обучения. 
 2. Принимаем участие в соревновании на Kaggle.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Оглавление)
 
 
 ### Краткая информация о данных
@@ -33,7 +33,7 @@
 
 https://www.kaggle.com/competitions/sf-booking/data
   
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Оглавление)
 
 
 ### Этапы работы над проектом:  
@@ -45,19 +45,19 @@ https://www.kaggle.com/competitions/sf-booking/data
 6. Обучение модели на тренировочных данных, предсказание целевой переменной на тестовых данных.
 7. Оценка полученной метрики, подготовка сабмита.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Оглавление)
 
 
 ### Результаты:  
 1. По редультатам проведённой работы метрика MAPE составила 0.12. Таким образом, наша модель в среднем ошибается в предсказании рейтингов отелей на 12%, что является хорошим показателем.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Оглавление)
 
 
 ### Выводы:  
 По итогу мы создали свой первый кейс по машинному обучению: самостоятельно очистили довольно сильно загрязнённый датасет, извлекли из него несколько новых признаков и подготовили данные для обучения модели. Также мы приняли участие в соревновании по машинному обучению и получили score 12.589.
 
-:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_3/#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️
