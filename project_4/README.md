@@ -32,8 +32,6 @@
 Датасет о клиентах банка содержит 17 признаков. 
 
 Наша целевая переменная **deposit** определяет, согласится ли клиент открыть депозит в банке. Именно её мы будем пытаться предсказать в данном кейсе.
-
-https://www.kaggle.com/competitions/sf-booking/data
   
 :arrow_up: [К оглавлению](https://github.com/alpisarev/sf_data_science/tree/main/project_4/#Оглавление)
 
