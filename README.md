@@ -15,3 +15,5 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 ## Kaggle:
 
 * [Kaggle 0. Predict car price (LAMA)](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_0)
+
+* [Kaggle 1. Predicting a Biological Response](https://github.com/alpisarev/sf_data_science/tree/main/kaggle_1)
