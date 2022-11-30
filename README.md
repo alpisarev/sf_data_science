@@ -1,17 +1,14 @@
 # My Data Science projects
 
-From the [SkillFactory Data Science course](https://skillfactory.ru/data-scientist-pro)
-
 # <center> Обо мне
 Меня зовут Алексей, мне 29 лет, я студент курса "Профессия Data Science" онлайн-школы SkillFactory. 
 
-В свободное время, если позволяет погода, люблю кататься на шоссейном велосипеде, иногда участвую в любительских велозаездах. 
+В свободное время, если позволяет погода, люблю кататься на шоссейном велосипеде, иногда участвую в любительских велозаездах. Также дополнительно прохожу интересные для меня курсы на образовательных онлайн-платформах.
 
-Ранее 9 лет работал инженером в теплотехнической сфере, сейчас решися на кардинальную смену профессиональной деятельности :)
+Ранее работал инженером в теплотехнической сфере в российской и зарубежной компании, сейчас решися на кардинальную смену профессиональной деятельности :)
 
-В период учёбы реализовал несколько проектов по анализу даных и машинному обучению, с которыми можно ознакомиться в одноимённом разделе. 
+Реализовал несколько проектов по анализу даных и машинному обучению, с которыми можно ознакомиться в одноимённом разделе. 
 
-Также дополнительно прохожу интересные для меня курсы на образовательных онлайн-платформах.
 
 ## Контакты для связи:
 * +7-977-889-08-21
@@ -23,9 +20,13 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Project 1. Аnalysis of vacancies on HeadHunter.ru](https://github.com/alpisarev/sf_data_science/tree/main/project_1)
 
+* [Project 2. SQL from Python: analysis of vacancies on HeadHunter.ru](https://github.com/alpisarev/sf_data_science/tree/main/project_2)
+
 * [Project 3. Booking reviews](https://github.com/alpisarev/sf_data_science/tree/main/project_3)
 
 * [Project 4. Classification task](https://github.com/alpisarev/sf_data_science/tree/main/project_4)
+
+* [Project 5. SBER virtual internship: Time series analysis](https://github.com/alpisarev/sf_data_science/tree/main/project_5)
 
 # <center> Kaggle
 
