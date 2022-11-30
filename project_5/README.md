@@ -1,4 +1,4 @@
-# Project 5. Задача классификации
+# Project 5. Предсказание временного ряда
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/alpisarev/sf_data_science/tree/main/project_5/#Описание-проекта)  
